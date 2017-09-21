@@ -1,0 +1,3 @@
+# robots.txt
+Disallow: /
+Sitemap: http://futurefuns.com/sitemap.xml
